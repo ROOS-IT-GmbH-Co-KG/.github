@@ -3,7 +3,7 @@
     <img src="https://roos-it.de/wp-content/uploads/2021/04/cropped-roos-it-logo-300x300.png" alt="ROOS IT Logo" width="150"/>
   </a>
 </div>
-# Willkommen bei ROOS IT auf GitHub! 👋
+**Willkommen bei ROOS IT auf GitHub! 👋**
 
 Wir sind Ihre Spezialisten für SAP HCM/HXM, SuccessFactors und Fiori-Anwendungen. Unser Motto: **"Die besten HR Lösungen für die besten Köpfe"**.
 
